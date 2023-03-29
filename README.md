@@ -1,1 +1,1 @@
-# math-books
+# mathematical books on various topics
